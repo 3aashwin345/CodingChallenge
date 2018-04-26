@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.host.url\=http\://fdxapp312\:9000\r\nsonar.login\=jdcpUser\r\nsonar.jdbc.password\=sonar\r\nsonar.jdbc.url\=jdbc\:mysql\://fdxapp312\:3306/sonar?useUnicode\=true&characterEncoding\=utf8&rewriteBatchedStatements\=true&useConfigs\=maxPerformance\r\nsonar.password\=jdcpUser\r\nsonar.jdbc.username\=sonar
+projectKey=org.springframework\:mitchell
+serverUrl=http\://fdxapp312.jdnet.deere.com\:9000
+version=2
